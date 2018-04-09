@@ -1,0 +1,28 @@
+.box1{
+	top: 10px;
+	left: 10px;
+	border: 0px;
+	width: 500px;
+	height: 500px;
+	background-color: silver;
+}
+.box2{
+	position: absolute;
+	top: 8px;
+	left: 8px;
+	width: 0;
+	height: 0;
+	border-left: 0px solid transparent;
+	border-right: 200px solid transparent;
+	border-top: 200px solid red;
+}
+.box3{
+	position: absolute;
+	top: 8px;
+	left: 8px;
+	width: 0;
+	height: 0;
+	border-left: 0px solid transparent;
+	border-right: 100px solid transparent;
+	border-top: 100px solid white;
+}
